@@ -1,0 +1,17 @@
+# registration|model|airline|cruise speed (km/h)
+AP-BGO|Airbus A310|PIA|850
+AP-BLA|Airbus A320|PIA|840
+AP-BMA|Airbus A320|PIA|840
+AP-BKA|Boeing 777-200ER|PIA|890
+AP-BAA|Boeing 707|PIA|880
+N949AT|Boeing 717|Delta Airline|810
+C-FFDK|Airbus A220|Air Canada|830
+A6-EBA|Boeing 777-300ER|Emirates|905
+A6-EBB|Boeing 777-300ER|Emirates|905
+TC-JJA|Airbus A330-300|Turkish Airline|870
+TC-JJB|Airbus A321|Turkish Airline|840
+A7-BEA|Boeing 777-300ER|Qatar Airways|905
+A7-BEB|Boeing 787-8|Qatar Airways|900
+A6-ETA|Boeing 787-9|Etihad|903
+G-VIIA|Boeing 787-9|British Airways|903
+D-AIKA|Airbus A340-600|Lufthansa|880

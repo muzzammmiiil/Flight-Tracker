@@ -1,0 +1,10 @@
+# code|airport name|city|UTC offset (hours)
+KHI|Jinnah International|Karachi|5
+LHE|Allama Iqbal International|Lahore|5
+ISB|Islamabad International|Islamabad|5
+DXB|Dubai International|Dubai|4
+DOH|Hamad International|Doha|3
+IST|Istanbul Airport|Istanbul|3
+LHR|Heathrow|London|0
+FRA|Frankfurt Airport|Frankfurt|1
+JFK|John F. Kennedy International|New York|-5
