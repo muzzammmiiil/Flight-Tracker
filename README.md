@@ -35,9 +35,6 @@ This project combines core C programming concepts with practical software develo
 | Technology | Purpose |
 |---|---|
 | C Programming | Core application logic |
-| HTML | GUI structure, if used in the interface |
-| CSS | GUI styling, if used |
-| JavaScript | GUI interactions, if used |
 | Text Files | Data storage |
 | Git & GitHub | Version control and project hosting |
 
